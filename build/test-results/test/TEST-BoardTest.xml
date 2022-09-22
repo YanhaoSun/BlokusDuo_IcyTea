@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BoardTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-09-22T14:22:25" hostname="dhcp-892b0e34.ucd.ie" time="0.131">
+  <properties/>
+  <testcase name="isEmptyTest()" classname="BoardTest" time="0.024"/>
+  <testcase name="printBoard()" classname="BoardTest" time="0.018"/>
+  <testcase name="testUpdate()" classname="BoardTest" time="0.086"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
